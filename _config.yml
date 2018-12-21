@@ -2,12 +2,12 @@ title: "Study"
 author: "
   name : "heeju choi"
   email : "heeju9598@gmail.com"
-  url : "http://heeju95/heeju.github.io"
+  url : "http://heeju.github.io"
 description: ""
 
 # Jekyll settings
-permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
-paginate: 2                  # number of articles per page, remove to disable pagination
+permalink: /:categories/:title/         # see https://jekyllrb.com/docs/permalinks/
+paginate: 5                  # number of articles per page, remove to disable pagination
 excerpt_separator: "\n\n\n"  # indicates the end of the excerpt by two blank lines
 
 # Theme settings
