@@ -3,7 +3,7 @@ author: "
   name : "heeju choi"
   email : "heeju9598@gmail.com"
   url : "http://heeju.github.io"
-description: ""
+description: "heeju's personal website."
 
 # Jekyll settings
 permalink: /:categories/:title/         # see https://jekyllrb.com/docs/permalinks/
