@@ -35,3 +35,10 @@ plugins:
  - jekyll-feed
  - jekyll-paginate
  - jekyll-default-layout
+ 
+ 
+ 
+remote_theme: niklasbuschmann/contrast
+
+plugins:
+  - jekyll-remote-theme
